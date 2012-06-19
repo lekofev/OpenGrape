@@ -5,7 +5,7 @@ This is a sample app that uses node.js, express, ejs and the Facebook
 client-side JS SDK to demonstrate simple Open Graph principles.
 
 This app is configured so as to use the Heroku cedar stack, as per
-[http://devcenter.heroku.com/articles/nodejs]
+http://devcenter.heroku.com/articles/nodejs
 
 ## Licence
 

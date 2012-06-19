@@ -1,0 +1,13 @@
+{
+  "name": "OpenGrape",
+  "version": "0.1.0",
+  "engines": {
+    "node": "0.6.x",
+    "npm":  "1.0.x"
+  },
+  "dependencies": {
+    "express": "3.x",
+    "ejs": "0.7.x",
+    "nodemon": "0.6.x"
+  }
+}
