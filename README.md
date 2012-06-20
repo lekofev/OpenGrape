@@ -7,7 +7,7 @@ client-side JS SDK to demonstrate simple Open Graph principles.
 This app is configured so as to use the Heroku cedar stack, as per
 http://devcenter.heroku.com/articles/nodejs
 
-## Wine Images
+## Wine & Grape Images
 
 Used under Creative Commons from:
 
@@ -15,6 +15,8 @@ Used under Creative Commons from:
 * http://www.flickr.com/photos/dalem/21340684/
 * http://www.flickr.com/photos/wickenden/3599754414/
 * http://www.flickr.com/photos/brianjmatis/4800524537
+* http://www.flickr.com/photos/dodundee/4804890542/
+* http://www.flickr.com/photos/zest-pk/923930277/
 
 ## Licence
 
