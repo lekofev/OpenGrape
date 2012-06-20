@@ -24,6 +24,8 @@ var express = require('express');
 
 var app = express.createServer();
 
+app.use(express.static(__dirname + '/mocks'));
+
 app.get('/', function(req, res){
   res.send('It works. Drink wine.');
 });
